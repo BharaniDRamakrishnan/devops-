@@ -1,11 +1,12 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #f1f5f9;
+    background: #fef2f2;
 }
 
+/* Navbar */
 .navbar {
-    background: #1e293b;
+    background: #b91c1c;
     padding: 15px;
     text-align: center;
 }
@@ -17,22 +18,23 @@ body {
     font-weight: bold;
 }
 
+/* Container */
 .container {
-    margin: 50px auto;
+    margin: 60px auto;
     width: 60%;
-    background: white;
+    background: #dc2626;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
 h1 {
-    color: #2563eb;
+    margin-bottom: 10px;
 }
 
 .footer {
     margin-top: 20px;
-    color: gray;
     font-size: 14px;
 }
