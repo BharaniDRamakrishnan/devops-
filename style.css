@@ -1,12 +1,12 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #fef2f2;
+    background: #f5f3ff;
 }
 
 /* Navbar */
 .navbar {
-    background: #b91c1c;
+    background: #7c3aed;
     padding: 15px;
     text-align: center;
 }
@@ -22,7 +22,7 @@ body {
 .container {
     margin: 60px auto;
     width: 60%;
-    background: #dc2626;
+    background: #a78bfa;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
